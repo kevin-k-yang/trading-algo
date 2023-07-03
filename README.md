@@ -1,2 +1,2 @@
 # trading-algo
-Quant Trading Algorithm
+Quant Trading Algorithm by Kevin Yang

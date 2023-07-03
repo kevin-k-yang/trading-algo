@@ -1,0 +1,8 @@
+alpaca-py
+matplotlib
+numpy
+pandas==1.4.4
+quantstats
+pandas-datareader
+requests
+yfinance
